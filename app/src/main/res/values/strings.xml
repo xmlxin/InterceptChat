@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InterceptChat</string>
+    <string name="accessibility_description">辅助功能</string>
+</resources>
